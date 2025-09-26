@@ -1,13 +1,13 @@
 @echo off
 :start
 ::Server name
-set serverName="JANS | Sakhal | Mainland Survival Server"
+set serverName="JANS | Sakhal | Mainland Survival"
 ::Server files location
-set serverLocation=""E:\Games\Steam\steamapps\common\DayZServer - JANS""
+set serverLocation=""E:\Games\Steam\steamapps\common\DayZServer-JANS""
 ::Server Port
 set serverPort=2302
 ::Server config
-set serverConfig=JANS-ServerDZ
+set serverConfig=JANS-ServerDZ.cfg
 ::Logical CPU cores to use (Equal or less than available)
 set serverCPU=2
 ::Sets title for terminal (DONT edit)
